@@ -6,9 +6,19 @@
 <a href="https://www.instagram.com/rubiarchanjo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p><br>
 
-My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of **Computer Engineering** college at Facamp - Campinas. I've been working with Technology since 2016 when I did my **Information Technology** at CEMEP - Paulínia. Nowadays I'm diversifying my curriculum, learning new subjects and improves the ones I already know. 💬 Feel free to suggest improvements and corrections and ask me questions. I love learning new things so much it hurts 🤔. The world is already wonderful, but it's even more interesting with computers and programming.
+My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of **Computer Engineering** college at [FACAMP](https://www.facamp.com.br/) - Campinas. I've been working with Technology since 2016 when I did my **Information Technology** at CEMEP - Paulínia. Nowadays I'm diversifying my curriculum, learning new subjects and improves the ones I already know. 💬 Feel free to suggest improvements and corrections and ask me questions. I love learning new things so much it hurts 💖. The world is already wonderful, but it's even more interesting with computers and programming.
 
 > "Men create tools and tools recreate man"
+
+## 🥇 Experience: 
+  - BPMN, DataBasic, Scrum, Python, Java, C, C#, 
+  - Visual Studio, Visual Studio Code
+  - Office
+  - Linux, Debian  
+
+## 🥈 I'm currently learning:
+  - Advanced Python 
+  - Advanced JavaScript + HTML + CSS
 
 ## 📫 Reach me out: 
 -Gmail: rharcosta@gmail.com
@@ -18,3 +28,10 @@ My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of *
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rharcosta&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rharcosta&layout=compact&langs_count=16&theme=onedark"/>
 <div>
+
+ ## 😂 Fun facts about me:
+  - I love cold 🥶
+  - I don't have any freshness for food 🍔
+  - I love my parents, my family, my friends and my parrot. By the way I love birds 🦜
+  - My biggest dream are having my own family, making a difference through my professional success and discover the world 🌍
+  

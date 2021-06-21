@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/rubiarchanjo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p><br>
 
-My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of **Computer Engineering** college at [FACAMP](https://www.facamp.com.br/) - Campinas. I've been working with Technology since 2016 when I did my **Information Technology** at CEMEP - Paulínia. Nowadays I'm diversifying my curriculum, learning new subjects and improves the ones I already know. 💬 Feel free to suggest improvements and corrections and ask me questions. I love learning new things so much it hurts 💖. The world is already wonderful, but it's even more interesting with computers and programming.
+My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of **Computer Engineering** college at [FACAMP](https://www.facamp.com.br/) - Campinas. I've been working with Technology since 2016 when I did my **Information Technology** at CEMEP - Paulínia. Nowadays I'm diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions. I love learning new things so much it hurts 💖. The world is already wonderful, but it's even more interesting with computers and programming.
 
 > "Men create tools and tools recreate man"
 

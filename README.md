@@ -10,10 +10,11 @@ My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of *
 
 > "Men create tools and tools recreate man"
 
-## 🥇 Experience: 
-  - BPMN, DataBasic, Scrum, Python, Java, C, C#, 
-  - Visual Studio, Visual Studio Code
-  - Office
+## 🥇 Experience with: 
+  - Arduino, Inventor
+  - BPMN, C, C#, DataBasic, Java, Python
+  - Visual Basic, Visual Studio, Visual Studio Code
+  - Office Pack
   - Linux, Debian  
 
 ## 🥈 I'm currently learning:

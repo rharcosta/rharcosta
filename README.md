@@ -21,7 +21,7 @@ My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of *
 ## 🥈 I'm currently learning:
   - Advanced Python 
   - Advanced JavaScript + HTML + CSS
-  - French and advanced Spanish
+  - French, Italian and advanced Spanish
 
 ## 📫 Reach me out: 
 -Gmail: rharcosta@gmail.com

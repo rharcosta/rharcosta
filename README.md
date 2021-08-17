@@ -25,6 +25,7 @@ My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of *
 
 ## 📫 Reach me out: 
 -Gmail: rharcosta@gmail.com
+-Instagram: https://www.instagram.com/rubiatechnology/
 
 <div>
   <a href="https://github.com/rharcosta">

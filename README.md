@@ -24,8 +24,8 @@ My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of *
   - French, Italian and advanced Spanish
 
 ## 📫 Reach me out: 
--Gmail: rharcosta@gmail.com
--Instagram: https://www.instagram.com/rubiatechnology/
+  - Gmail: rharcosta@gmail.com
+  - Instagram: https://www.instagram.com/rubiatechnology/
 
 <div>
   <a href="https://github.com/rharcosta">

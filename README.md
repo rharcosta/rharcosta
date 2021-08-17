@@ -16,10 +16,12 @@ My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of *
   - Visual Basic, Visual Studio, Visual Studio Code
   - Office Pack
   - Linux, Debian  
+  - Languages (English, Portuguese and Spanish)
 
 ## 🥈 I'm currently learning:
   - Advanced Python 
   - Advanced JavaScript + HTML + CSS
+  - French and advanced Spanish
 
 ## 📫 Reach me out: 
 -Gmail: rharcosta@gmail.com

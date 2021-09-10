@@ -6,17 +6,16 @@
 <a href="https://www.instagram.com/rubiarchanjo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p><br>
 
-My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of **Computer Engineering** college at [FACAMP](https://www.facamp.com.br/) - Campinas. I've been working with Technology since 2016 when I did my **Information Technology** at CEMEP - Paulínia. Nowadays I'm diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions. I love learning new things so much it hurts 💖. The world is already wonderful, but it's even more interesting with computers and programming.
-
+My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of **Computer Engineering** college at [FACAMP](https://www.facamp.com.br/) - Campinas. I've been working with Technology since 2016 when I did my **Information Technology** at CEMEP - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions. I really love to learn. 
 > "Men create tools and tools recreate man"
 
 ## 🥇 Experience with: 
-  - Arduino, Inventor
-  - BPMN, C, C#, DataBasic, Java, Python
-  - Visual Basic, Visual Studio, Visual Studio Code
+  - Arduino, Fireworks, Autodesk Inventor
+  - Java, Python for ML and AI, C, C++, C#, applications with DataBasic
+  - Agile Methodology, Scrum, Kanban, Lean, BPMN
   - Office Pack
-  - Linux, Debian  
-  - Languages (English, Portuguese and Spanish)
+  - Virtual Machine 
+  - Languages (advanced English, native Portuguese and basic Spanish)
 
 ## 🥈 I'm currently learning:
   - Advanced Python 
@@ -36,6 +35,6 @@ My name is Rubia Helena Archanjo, I'm from Brazil and I'm in the third year of *
  ## 😂 Fun facts about me:
   - I love cold 🥶
   - I don't have any freshness for food 🍔
-  - I love my parents, my family, my friends and my parrot. By the way I love birds 🦜
-  - My biggest dream are having my own family, making a difference through my professional success and discover the world 🌍
+  - I love my family, my friends and my parrot. By the way I love birds 🦜
+  - My biggest dreams are to have my own family, make a difference through my professional success and discover the world 🌍
   

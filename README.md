@@ -1,7 +1,7 @@
 # ⚡ Welcome, buddy! ⚡
 
 <a href="https://www.linkedin.com/in/rubia-helena-archanjo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/_rubiarchanjo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/rubiarchanjo_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-%2303A9F4.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.youtube.com/channel/UCIHAvIMbthJhpXHWZFly0SQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.instagram.com/rubiarchanjo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p><br>

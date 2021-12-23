@@ -2,7 +2,7 @@
 
 <div style="text-align: justify">
   My name is <b>Rubia Helena Archanjo</b>, I'm from Brazil and I'm in the third year of <b>Computer Engineering</b> college at <a href = "https://www.facamp.com.br/"> FACAMP </a> - Campinas. I've been working with Technology since 2016 when I did my <b>Information Technology</b> at <a href = "https://cemep.net.br/"> CEMEP </a> - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions. I really love to learn.
-</div>
+</div><BR>
 
 > "Men create tools and tools recreate man"<BR>
 
@@ -34,7 +34,7 @@
   ## 🥉 Studied methodologies:
   
   - Agile Methodology, Scrum, Kanban, Lean, BPMN.
-  
+    
   ## 🏅 Languages:
  
 <div style="display: inline_block">
@@ -57,6 +57,7 @@
   <a href = "mailto:rharcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rubiarchanjo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCIHAvIMbthJhpXHWZFly0SQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/rubiarchanjo_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
  ## 😂 Fun facts about me:
@@ -65,3 +66,4 @@
   - I love my family, my friends and my parrot. By the way I love birds 🦜
   - My biggest dreams are to have my own family, make a difference through my professional success and discover the world 🌍
 
+  ![Snake animation](https://github.com/rharcosta/rharcosta/blob/output/github-contribution-grid-snake.svg)

@@ -1,10 +1,17 @@
 # ⚡ Welcome, buddy! ⚡
 
-<div style="text-align: justify">
+<p align=justify>
   My name is <b>Rubia Helena Archanjo</b>, I'm from Brazil and I'm in the third year of <b>Computer Engineering</b> college at <a href = "https://www.facamp.com.br/"> FACAMP </a> - Campinas. I've been working with Technology since 2016 when I did my <b>Information Technology</b> at <a href = "https://cemep.net.br/"> CEMEP </a> - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions. I really love to learn.
-</div><BR>
+</p>
 
 > "Men create tools and tools recreate man"<BR>
+  
+  ## 📫 Reach me out:
+<div>
+  <a href="https://www.linkedin.com/in/rubia-helena-archanjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rharcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rubiarchanjo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div><BR>
 
 ## 🥇 Experience with:
 
@@ -50,15 +57,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rharcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rharcosta&layout=compact&langs_count=16&theme=dracula"/>
 <div>
-  
-  ## 📫 Reach me out:
-<div>
-  <a href="https://www.linkedin.com/in/rubia-helena-archanjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:rharcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/rubiarchanjo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCIHAvIMbthJhpXHWZFly0SQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/rubiarchanjo_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
 
  ## 😂 Fun facts about me:
   - I love cold 🥶

@@ -1,7 +1,7 @@
 # ⚡ Welcome, buddy! ⚡
 
 <p align=justify>
-  My name is <b>Rubia Helena Archanjo</b>, I'm from Brazil and I'm in the third year of <b>Computer Engineering</b> college at <a href = "https://www.facamp.com.br/"> FACAMP </a> - Campinas. I've been working with Technology since 2016 when I did my <b>Information Technology</b> at <a href = "https://cemep.net.br/"> CEMEP </a> - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions. I really love to learn.
+  My name is <b>Rubia Helena Archanjo</b>, I'm from Brazil and I'm in the forth year of <b>Computer Engineering</b> college at <a href = "https://www.facamp.com.br/"> FACAMP </a> - Campinas. I've been working with Technology since 2016 when I did my <b>Information Technology</b> at <a href = "https://cemep.net.br/"> CEMEP </a> - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions. I really love to learn.
 </p>
 
 > "Men create tools and tools recreate man"<BR>

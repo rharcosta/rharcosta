@@ -6,8 +6,18 @@
 
 > "Men create tools and tools recreate man"<BR>
 
+## 📫 Reach me out:
+<div>
+  <a href="https://www.linkedin.com/in/rubiarchanjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:rharcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/@rubiarchanjo?si=vbH7_kb5R3WwC5vd" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+<BR>
+
 ## 🥇 Front-End:
 <div>
+  
    ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
    ![Vue.js](https://img.shields.io/badge/vuejs-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
@@ -16,16 +26,26 @@
    ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript)&nbsp;
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
    ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
-</div><BR>
+
+</div>
+
+<BR>
 
 ## 🥈 Back-End:
 <div>
-   ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
-   ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)&nbsp;
+  
+   ![Java](https://img.shields.io/badge/java-%2320232a?style=for-the-badge&logo=java&logo)&nbsp;
+   ![Springboot](https://img.shields.io/badge/springboot-%2320232a?style=for-the-badge&logo=springboot&logo)&nbsp;
+   ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
+   ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logo)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
    ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
-   ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
-</div><BR>
+   ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
+   ![C#](https://img.shields.io/badge/c#-%2320232a?style=for-the-badge&logo=c#&logo)&nbsp;
+
+</div>
+
+<BR>
 
 ## 🥉 Others Technologies:
 <div style="display: inline_block">
@@ -41,40 +61,33 @@
   <img align="center" alt="sql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="office" height="30" width="40" src="https://user-images.githubusercontent.com/57666808/147160783-8b522507-1276-41fa-afab-454d242299a2.png">
-</div><BR>
-  
-  ##  Studied methodologies:
-  
-  - Agile Methodology, Scrum, Kanban, Lean, BPMN.
-    
-  ## 🏅 Languages:
- 
+</div>
+
+<BR>
+
+## ⏱ Methodologies:
+- Agile, Scrum, Kanban, Lean, BPMN, PDCA, WCM.
+
+<BR>
+
+## 🏅 Languages:
 <div style="display: inline_block">
   <img align="center" alt="frança" height="40" width="40" src="https://user-images.githubusercontent.com/57666808/147159730-9450ec88-c813-49cd-9717-6b1dda9d73b9.png">
   <img align="center" alt="italia" height="40" width="40" src="https://user-images.githubusercontent.com/57666808/147159689-4b2f3a48-0a1d-4051-91dc-b0ca55c9dc2c.png">
   <img align="center" alt="brasil" height="40" width="40" src="https://user-images.githubusercontent.com/57666808/147159780-c7cb8a05-5d36-40ad-8868-b9fc94ea6870.png">
   <img align="center" alt="eua" height="40" width="40" src="https://user-images.githubusercontent.com/57666808/147159919-9b739c17-4647-4491-a8e0-2e1fba7b96f0.png">
   <img align="center" alt="espanha" height="40" width="40" src="https://user-images.githubusercontent.com/57666808/147159954-c02716e2-0f8d-48d8-a8c2-1f9168ff7788.png">
-</div><BR>
+</div>
 
-    ## 📫 Reach me out:
-<div>
-  <a href="https://www.linkedin.com/in/rubiarchanjo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:rharcosta@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://youtube.com/@rubiarchanjo?si=vbH7_kb5R3WwC5vd" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-</div><BR>
+<BR>
 
 <div>
   <a href="https://github.com/rharcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rharcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rharcosta&layout=compact&langs_count=16&theme=dracula"/>
 <div>
+
+<BR>
 
  ## 😂 Fun facts about me:
   - I love cold 🥶

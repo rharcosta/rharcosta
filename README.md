@@ -8,14 +8,20 @@
   
   ## 📫 Reach me out:
 <div>
-  <a href="https://www.linkedin.com/in/rubiarchanjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rubiarchanjo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
   
-  <a href = "mailto:rharcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:rharcosta@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
   
-  <a href="https://youtube.com/@rubiarchanjo?si=vbH7_kb5R3WwC5vd" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"</a>
+  <a href="https://youtube.com/@rubiarchanjo?si=vbH7_kb5R3WwC5vd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
 </div><BR>
 
-## 🥇 Experience with:
+## 🥇 Front-End:
 
 <div style="display: inline_block"> 
   <img align="center" alt="arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
@@ -28,7 +34,7 @@
   <img align="center" alt="office" height="30" width="40" src="https://user-images.githubusercontent.com/57666808/147160783-8b522507-1276-41fa-afab-454d242299a2.png">
 </div><BR>
 
-## 🥈 I'm getting deeper into:
+## 🥈 Back-End:
 
 <div style="display: inline_block">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

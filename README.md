@@ -5,25 +5,34 @@
 </p>
 
 > "Men create tools and tools recreate man"<BR>
-  
-  ## 📫 Reach me out:
-<div>
-  <a href="https://www.linkedin.com/in/rubiarchanjo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="mailto:rharcosta@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://youtube.com/@rubiarchanjo?si=vbH7_kb5R3WwC5vd" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
-</div><BR>
 
 ## 🥇 Front-End:
+<div>
+   ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
+   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+   ![Vue.js](https://img.shields.io/badge/vuejs-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+   ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
+   ![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript)&nbsp;
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
+   ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
+</div><BR>
 
-<div style="display: inline_block"> 
+## 🥈 Back-End:
+<div>
+   ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
+   ![Postgres](https://img.shields.io/badge/postgres-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%23316192)&nbsp;
+   ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
+   ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
+</div><BR>
+
+## 🥉 Others Technologies:
+<div style="display: inline_block">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="pycharm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
@@ -33,20 +42,8 @@
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="office" height="30" width="40" src="https://user-images.githubusercontent.com/57666808/147160783-8b522507-1276-41fa-afab-454d242299a2.png">
 </div><BR>
-
-## 🥈 Back-End:
-
-<div style="display: inline_block">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-</div><BR>
   
-  ## 🥉 Studied methodologies:
+  ##  Studied methodologies:
   
   - Agile Methodology, Scrum, Kanban, Lean, BPMN.
     
@@ -59,7 +56,20 @@
   <img align="center" alt="eua" height="40" width="40" src="https://user-images.githubusercontent.com/57666808/147159919-9b739c17-4647-4491-a8e0-2e1fba7b96f0.png">
   <img align="center" alt="espanha" height="40" width="40" src="https://user-images.githubusercontent.com/57666808/147159954-c02716e2-0f8d-48d8-a8c2-1f9168ff7788.png">
 </div><BR>
-  
+
+    ## 📫 Reach me out:
+<div>
+  <a href="https://www.linkedin.com/in/rubiarchanjo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:rharcosta@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://youtube.com/@rubiarchanjo?si=vbH7_kb5R3WwC5vd" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+</div><BR>
+
 <div>
   <a href="https://github.com/rharcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rharcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

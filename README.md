@@ -4,7 +4,7 @@
   My name is <b>Rubia Archanjo</b>, I'm 23 years old and I'm a <b>Computer Engineer</b> graduated in Dec/2023 from <a href = "https://www.facamp.com.br/"> FACAMP</a> - Campinas. I've been working with Technology since 2016 when I did my <b>Information Technology</b> course at <a href = "https://cemep.net.br/"> CEMEP</a> - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions.
 </p>
 
-> "Men create tools and tools recreate man"<BR>
+> "Men create tools and tools recreate man"
 
 ## 📫 Reach me out:
 <div>

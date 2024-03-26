@@ -9,7 +9,7 @@
 ## 📫 Reach me out:
 <div>
   <a href="https://www.linkedin.com/in/rubiarchanjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:rharcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:rharcosta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://youtube.com/@rubiarchanjo?si=vbH7_kb5R3WwC5vd" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div><BR>
 
@@ -30,24 +30,28 @@
 ## 🥈 Back-End:
 <div>
   
-   ![Java](https://img.shields.io/badge/java-%2320232a?style=for-the-badge&logo=java&logo)&nbsp;
-   ![Springboot](https://img.shields.io/badge/springboot-%2320232a?style=for-the-badge&logo=springboot&logo)&nbsp;
+   ![Java](https://img.shields.io/badge/java-%2320232a?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+   ![Springboot](https://img.shields.io/badge/Spring_Boot-%2320232a?style=for-the-badge&logo=spring-boot)&nbsp;
+   ![Maven](https://img.shields.io/badge/%20Maven-%2320232a?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
-   ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logo)&nbsp;
+   ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
    ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
    ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
-   ![C#](https://img.shields.io/badge/csharp-%2320232a?style=for-the-badge&logo=csharp&logo)&nbsp;
+   ![C#](https://img.shields.io/badge/c%23-%2320232a?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 
 </div>
 
 ## 🥉 Others Technologies:
-<div style="display: inline_block">
-  <img align="center" alt="numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
-  <img align="center" alt="office" height="30" width="40" src="https://user-images.githubusercontent.com/57666808/147160783-8b522507-1276-41fa-afab-454d242299a2.png">
+<div>
+  
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+  ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;
+  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
+  ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)&nbsp;
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
+
 </div>
 
 <BR>

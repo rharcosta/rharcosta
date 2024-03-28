@@ -1,7 +1,7 @@
 # ⚡ Welcome, buddy! ⚡
 
 <p align=justify>
-  My name is <b>Rubia Archanjo</b>, I'm 23 years old and I'm a <b>Computer Engineer</b> graduated in Dec/2023 from <a href = "https://www.facamp.com.br/"> FACAMP</a> - Campinas. I've been working with Technology since 2016 when I did my <b>Information Technology</b> course at <a href = "https://cemep.net.br/"> CEMEP</a> - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and improving the ones I already know. 💬 Feel free to suggest improvements, corrections and ask me questions.
+  My name is <b>Rubia Archanjo</b>, I'm 23 years old and I'm a <b>Computer Engineer</b> graduated in Dec/2023 from <a href = "https://www.facamp.com.br/"> FACAMP</a> - Campinas. I've been working with Technology since 2016 when I did my <b>Information Technology</b> course at <a href = "https://cemep.net.br/"> CEMEP</a> - Paulínia. Nowadays I've been diversifying my curriculum, learning new subjects and continually developing my knowledge. 💬 Feel free to suggest improvements and ask me questions. I would love to hear something from you.
 </p>
 
 > "Men create tools and tools recreate man"
@@ -76,9 +76,10 @@
 <div>
 
 ## 😂 Fun facts about me:
-  - I love cold 🥶
-  - I don't have any freshness for food 🍔
-  - I love my family, my friends and my parrot. By the way I love birds 🦜
+  - I prefer cold weather 🥶
+  - I am a chocolate lover 🍫
+  - I love my family, my friends and my parrot 🤍
+  - If I were an animal, I would like to be a bird. Because they are free to fly 🦜
   - My biggest dreams are to have my own family, make a difference through my professional success and discover the world 🌍
 
   ![Snake animation](https://github.com/rharcosta/rharcosta/blob/output/github-contribution-grid-snake.svg)

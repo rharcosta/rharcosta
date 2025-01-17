@@ -88,4 +88,8 @@
   - If I were an animal, I would like to be a bird. Because they are free to fly 🦜
   - My biggest dreams are to have my own family, make a difference through my professional success and discover the world 🌍
 
-  ![Snake animation](https://github.com/rharcosta/rharcosta/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rharcosta/rharcosta/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rharcosta/rharcosta/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rharcosta/rharcosta/output/github-contribution-grid-snake.svg">
+</picture>

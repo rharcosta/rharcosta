@@ -14,16 +14,16 @@
 </div><BR>
 
 ## 🥇 Front-End:
-<div>
+<div> 
   
+   ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
+   ![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript)&nbsp;
+   ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
    ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)&nbsp;
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
    ![Vue.js](https://img.shields.io/badge/vuejs-%2320232a.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-   ![HTML](https://img.shields.io/badge/-HTML-%2320232a.svg?style=for-the-badge&logo=HTML5)&nbsp;
-   ![CSS](https://img.shields.io/badge/-CSS-%2320232a.svg?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript)&nbsp;
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)&nbsp;
-   ![jQuery](https://img.shields.io/badge/jquery-%2320232a.svg?style=for-the-badge&logo=jquery&logoColor=%230769AD)&nbsp;
 
 </div>
 
@@ -35,16 +35,22 @@
    ![Maven](https://img.shields.io/badge/%20Maven-%2320232a?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
    ![Postman](https://img.shields.io/badge/Postman-%2320232a?style=for-the-badge&logo=postman&logoColor=FF6C37)&nbsp;
    ![Python](https://img.shields.io/badge/python-%2320232a?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-   ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
-   ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
+   ![Flask](https://img.shields.io/badge/flask-%2320232a?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+   ![C](https://img.shields.io/badge/-C-%2320232a.svg?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+   ![C++](https://img.shields.io/badge/-C++-%2320232a.svg?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+   ![C#](https://img.shields.io/badge/CSHARP-%2320232a?style=for-the-badge&logo=Csharp&logoColor=white)&nbsp;
+   ![ASP.NET](https://img.shields.io/badge/asp.net-%2320232a?style=for-the-badge&logo=asp.net&logoColor=white)&nbsp;
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-%2320232a.svg?style=for-the-badge&logo=javascript)&nbsp;
    ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
-   ![C#](https://img.shields.io/badge/c%23-%2320232a?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
-
+   ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a.svg?style=for-the-badge&logo=mysql)&nbsp;
+   ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-%2320232a.svg?style=for-the-badge&logo=postgreSQL)&nbsp;
+   ![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)&nbsp;
+   
 </div>
 
 ## 🥉 Others Technologies:
 <div>
-  
+
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
   ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;
   ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
